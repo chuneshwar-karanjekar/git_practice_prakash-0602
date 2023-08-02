@@ -1,2 +1,2 @@
 Hello Git and GitHub
-i am chuneshwar
+I am chuneshwar
